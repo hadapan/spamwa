@@ -1,5 +1,7 @@
 # spamwa
-# Instalasi
+# Instalasi :
+  ```
+  
   $ Pkg update && pkg upgrade
   $ pkg install git
   $ pkg install python python2
@@ -8,3 +10,4 @@
   $ cd wa
   $ pip install requests
   $ python wa.py
+  ```
